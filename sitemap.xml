@@ -2,27 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://azlwqaq.github.io/post/be82d226.html</loc>
-    
-    <lastmod>2022-09-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://azlwqaq.github.io/post/4a17b156.html</loc>
     
-    <lastmod>2022-09-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://azlwqaq.github.io/post/4a17b156.html</loc>
-    
-    <lastmod>2022-09-05</lastmod>
+    <lastmod>2022-09-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,16 +13,7 @@
   <url>
     <loc>https://azlwqaq.github.io/link/index.html</loc>
     
-    <lastmod>2022-08-31</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://azlwqaq.github.io/categories/index.html</loc>
-    
-    <lastmod>2022-08-31</lastmod>
+    <lastmod>2022-09-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +22,34 @@
   <url>
     <loc>https://azlwqaq.github.io/tags/index.html</loc>
     
-    <lastmod>2022-08-31</lastmod>
+    <lastmod>2022-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://azlwqaq.github.io/post/4a17b156.html</loc>
+    
+    <lastmod>2022-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://azlwqaq.github.io/post/be82d226.html</loc>
+    
+    <lastmod>2022-09-11</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://azlwqaq.github.io/categories/index.html</loc>
+    
+    <lastmod>2022-09-11</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
 
   <url>
     <loc>https://azlwqaq.github.io/</loc>
-    <lastmod>2022-09-08</lastmod>
+    <lastmod>2022-09-11</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
